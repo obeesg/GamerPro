@@ -7,8 +7,8 @@ import mysql.connector
 def conectar_bd():
     return mysql.connector.connect(
         host="localhost",
-        user="bibliouser2",
-        password="Strategas.2024%$#",
+        user="gamer",
+        password="PaswordPro",
         database="gestion_videojuegos"
     )
 
