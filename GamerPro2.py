@@ -152,7 +152,7 @@ root = tk.Tk()
 root.title("GamerPro")
 
 # Cargar la imagen de fondo
-imagen_fondo = Image.open("C:/Users/marcos/OneDrive - KGHM CHILE SPA/Documentos/Programacion Avanzada 1/semana 8/GamerPro.png")
+imagen_fondo = Image.open("C:/Users/marcos/OneDrive - KGHM CHILE SPA/Documentos/Programacion Avanzada 1/semana 8/GamerPro/GamerPro.png")
 imagen_fondo = imagen_fondo.resize((400, 500))  # Ajusta el tamaño según sea necesario
 imagen_fondo = ImageTk.PhotoImage(imagen_fondo)
 
