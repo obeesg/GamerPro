@@ -24,3 +24,4 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
   ```bash
   pip install mysql-connector-python
   ```
+# MaTrip
